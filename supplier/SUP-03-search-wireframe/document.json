@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "C5EF7EFD-BA47-4FDA-B2D6-D24EA4946DF8",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,13 +24,14 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
   },
   "pages": [
     "Screenshots",
-    "Carpark"
+    "Carpark",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
