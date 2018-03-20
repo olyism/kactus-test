@@ -1,0 +1,78 @@
+{
+  "_class": "page",
+  "do_objectID": "0EF5732C-7B50-407E-93C5-74495F1F4B38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "AD300744-7AFC-4959-8935-A44A553759D3"
+    },
+    {
+      "class": "bitmap",
+      "id": "4B84BFEE-1957-4E74-803D-BA662B624DE7"
+    },
+    {
+      "class": "bitmap",
+      "id": "6892261A-F887-49DE-8DFB-D905C58D43EC"
+    },
+    {
+      "class": "bitmap",
+      "id": "9D5FB336-A155-4336-B675-6DFA60EC3447"
+    },
+    {
+      "class": "bitmap",
+      "id": "A1093B1E-2E92-4E5E-A265-2068DD261530"
+    },
+    {
+      "class": "group",
+      "id": "32A79402-EDDA-42F3-A8D0-9F1B25FD2EDC"
+    }
+  ],
+  "name": "Carpark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
